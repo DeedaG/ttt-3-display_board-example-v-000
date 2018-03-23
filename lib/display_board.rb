@@ -10,5 +10,9 @@ def game
   puts "   |   |   "
 end
 
+def display_board
+  puts "Welcome to Tic Tac Toe"
+  game
+end
 
-game
+display_board
