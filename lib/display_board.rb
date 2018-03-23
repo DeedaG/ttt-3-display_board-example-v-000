@@ -6,9 +6,9 @@ row = ["cell"," | ","cell"," | ","cell"]
 
 def game
   puts "row"
-  puts ""-----------""
+  puts "-----------"
   puts "row"
-  puts ""-----------""
+  puts "-----------"
   puts "row"
 end
 
