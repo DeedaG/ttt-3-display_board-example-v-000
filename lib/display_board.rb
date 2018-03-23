@@ -5,11 +5,11 @@ cell = "   "
 row = ["cell"," | ","cell"," | ","cell"]
 
 def game
-  puts "row"
+  puts "   |   |   "
   puts "-----------"
-  puts "row"
+  puts "   |   |   "
   puts "-----------"
-  puts "row"
+  puts "   |   |   "
 end
 
 def display_board
