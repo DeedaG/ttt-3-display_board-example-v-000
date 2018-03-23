@@ -11,7 +11,6 @@ def game
 end
 
 def display_board
-  puts " "
   game
 end
 
