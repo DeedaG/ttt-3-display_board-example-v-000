@@ -11,7 +11,7 @@ def game
 end
 
 def display_board
-  puts "A Tic Tac Toe"
+  puts " "
   game
 end
 
