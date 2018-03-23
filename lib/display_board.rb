@@ -10,9 +10,6 @@ def game
   puts "   |   |   "
 end
 
-def display_board
-  puts "A Tic Tac Toe Board"
-  game
-end
 
-display_board
+game
+
